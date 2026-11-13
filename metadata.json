@@ -1,0 +1,6 @@
+{
+  "name": "مغامرات محمد التعليمية",
+  "description": "عالم تعليمي وتفاعلي متكامل باللغة العربية لمحمد وليد هيكل (6 سنوات) يضم 6 جزر مغامرات و5 أقسام تعليمية و20 لعبة تفاعلية ونظام مكافآت ولوحة متابعة لولي الأمر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
